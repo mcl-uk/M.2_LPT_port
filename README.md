@@ -1,4 +1,4 @@
-# M.2_LPT_port
+# M.2B LPT parallel port
 This is a hardware design for a an M.2 22x42 B-keyed LPT: parallel port based on the CH382L chip.
 Although USB-to-LPT printer adapters are widely available they do not provide an actual Windows LPTx: port.
 If, for example, you need support for a legacy parallel port security dongle (eg Sentinal for Mentor PADS) then you need a real, Windows LPTx: port.
