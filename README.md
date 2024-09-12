@@ -9,4 +9,5 @@ The board has been tried and tested on a 12th gen Intel Core i5 NUC PC where it 
 For those wanting to source one of these boards I can recommend JLCPCB who made and assembled my prototypes at modest cost.
 All design files are provided here, including schematics, Gerber files for the 4-layer board, XY pick-and-place file, and BOM.
 Note that the board must be 0.8mm thick and should have gold plating on the edge connector, also the crystal X1 is not required and RC1 should be omitted.
-![M2BLPT](https://github.com/user-attachments/assets/cc2c6f83-16b1-47c6-a712-7730c051d392)
+
+![M2BLPTPhoto](https://github.com/user-attachments/assets/848d32be-dd96-436e-a210-51f71a011bd6)
